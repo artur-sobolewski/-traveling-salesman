@@ -1,1 +1,1 @@
-# Program realizujący różne algorytmy rozwiązania problemu komiwojażera
+# Implementations of various algorithms for solving the salesman problem in comand prompt application.
